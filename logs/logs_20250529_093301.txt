@@ -1,6 +1,0 @@
-May 29, 2025 9:33:01 AM com.tasktracker.AppLogger setupLogger
-INFO: Logger initialized. Writing logs to: logs/logs_20250529_093301.txt
-May 29, 2025 9:33:01 AM com.tasktracker.AppLogger logInfo
-INFO: Successfully stored tasks.json.
-May 29, 2025 9:33:14 AM com.tasktracker.AppLogger logInfo
-INFO: Successfully stored tasks.json.
