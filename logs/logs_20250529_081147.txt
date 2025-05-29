@@ -1,0 +1,10 @@
+May 29, 2025 8:11:47 AM com.tasktracker.AppLogger setupLogger
+INFO: Logger initialized. Writing logs to: logs/logs_20250529_081147.txt
+May 29, 2025 8:11:47 AM com.tasktracker.AppLogger logWarning
+WARNING: tasks.json not found. Returning an empty task list.
+May 29, 2025 8:12:37 AM com.tasktracker.AppLogger logWarning
+WARNING: tasks.json not found.Creating a new file.
+May 29, 2025 8:12:37 AM com.tasktracker.AppLogger logInfo
+INFO: Created new tasks.json file
+May 29, 2025 8:12:37 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.

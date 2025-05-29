@@ -1,0 +1,16 @@
+May 29, 2025 8:20:56 AM com.tasktracker.AppLogger setupLogger
+INFO: Logger initialized. Writing logs to: logs/logs_20250529_082056.txt
+May 29, 2025 8:20:56 AM com.tasktracker.AppLogger logWarning
+WARNING: tasks.json was empty or contained invalid data.
+May 29, 2025 8:21:08 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.
+May 29, 2025 8:22:16 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.
+May 29, 2025 8:22:20 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.
+May 29, 2025 8:22:23 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.
+May 29, 2025 8:22:28 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.
+May 29, 2025 8:22:54 AM com.tasktracker.AppLogger logInfo
+INFO: Successfully stored tasks.json.
