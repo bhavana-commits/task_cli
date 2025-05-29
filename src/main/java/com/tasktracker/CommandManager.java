@@ -42,6 +42,7 @@ public class CommandManager {
             default:
                 System.out.println(" add \"description\"" +
                         " \n update \"task id\" \"description\"" +
+                        "\n delete \"task id\""+
                         " \n mark-in-progress \"task id\" " +
                         "\n mark-done \"task id\" " +
                         "\n list " +
